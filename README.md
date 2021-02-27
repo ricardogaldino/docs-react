@@ -1,2 +1,1 @@
-# docs-react
-React
+# React (ReactJS)
